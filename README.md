@@ -1,8 +1,9 @@
 ### Data Analyst
 
-Technical Skills: Python, SQL, Excel, PowerBi 
+### Technical Skills: Python, SQL, Excel, PowerBI 
 
 ### Education
+
 Bachelor’s in Business Management | University Of Roehampton | 2021 – 2024
 Modules: Business Data Analysis, Accounting & Finance, Economics, Project Management, 
 Corporate Strategy, Global Marketing, Operations, Logistics & Supply Chain Management.
@@ -10,6 +11,7 @@ Corporate Strategy, Global Marketing, Operations, Logistics & Supply Chain Manag
 Dissertation: Contemporary Issues in Management (Distinction)
 
 ### Work Experience
+
 Marketing Intern | Affinity Aviation Group Ltd | May 2024 - June 2024 | London, UK
 
 Strategically planned and managed social media accounts across platforms including Instagram, Facebook, TikTok, and LinkedIn, increasing overall engagement by 25%.
@@ -34,7 +36,7 @@ understanding of the dataset structure and relationships.
 This project showcases my ability to write optimized SQL queries for data analysis, reporting, and deriving meaningful business insights. 
 It emphasizes my skills in statistical analysis, data visualization preparation, and problem-solving in real-world scenarios.
 
-###Air Quality Index (AQI) Dashboard for India
+### Air Quality Index (AQI) Dashboard for India
 
 This project is an interactive dashboard that visualizes the Air Quality Index (AQI) data for various cities across India. It provides insights into pollution levels and key pollutants such as NO2, CO, SO2, and PM2.5. The dashboard is built to allow users to select a city and view detailed air quality trends and comparisons.
 
@@ -55,4 +57,30 @@ This project is an interactive dashboard that visualizes the Air Quality Index (
 - Identify the most and least polluted regions in India.
 
 This project is an excellent tool for researchers, policymakers, and environmental enthusiasts to understand and monitor air quality trends in India.
+
+### Project Title: Interactive Coffee Sales Dashboard in Excel  
+
+This project showcases an interactive and visually appealing coffee sales dashboard created using advanced Excel techniques. 
+The dashboard effectively consolidates and visualizes sales data, making it easier to analyze trends and make data-driven decisions.  
+
+Key steps and features of the project include:  
+- Data Analysis Functions: Utilized *XLOOKUP* and *INDEX MATCH* for efficient data retrieval and relational lookups.  
+- Sales Metrics: Applied multiplication formulas and *multiple IF functions* for dynamic calculations and logical operations.  
+- Data Formatting: Ensured consistent and professional presentation with proper *DATE and NUMBER FORMATING*.  
+- Data Validation*: Checked for duplicates and converted data ranges into structured tables for better manageability.  
+- Data Visualization: Created *PIVOT TABLES and CHARTS*, enhanced with slicers, timelines, and dynamic formatting for deeper insights.  
+- Dashboard Creation*: Designed and built a user-friendly dashboard, integrating all key data elements and visual components.
+
+### Project Title: Sales Analysis Dashboard for Madhav E-commerce Sales  
+
+This project involved creating a comprehensive sales analysis dashboard for Madhav E-commerce Sales using Power BI. 
+It demonstrates the ability to leverage Power BI's tools for data visualization and insights. Key steps include:
+  
+- Importing and transforming raw data using *Power Query* for cleaning and preparation.  
+- Utilizing *DAX (Data Analysis Expressions)* to perform calculations and derive meaningful metrics.  
+- Designing an optimized *data model* for seamless analysis and reporting.  
+- Building an interactive, visually appealing *dashboard* to analyze sales performance, trends, and key metrics.  
+
+This project highlights proficiency in Power BI, including data preparation, modeling, and creating actionable dashboards.
+
 
