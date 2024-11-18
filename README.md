@@ -36,6 +36,7 @@ understanding of the dataset structure and relationships.
 This project showcases my ability to write optimized SQL queries for data analysis, reporting, and deriving meaningful business insights. 
 It emphasizes my skills in statistical analysis, data visualization preparation, and problem-solving in real-world scenarios.
 
+
 ## Air Quality Index (AQI) Dashboard for India
 
 This project is an interactive dashboard that visualizes the Air Quality Index (AQI) data for various cities across India. It provides insights into pollution levels and key pollutants such as NO2, CO, SO2, and PM2.5. The dashboard is built to allow users to select a city and view detailed air quality trends and comparisons.
