@@ -38,7 +38,10 @@ It emphasizes my skills in statistical analysis, data visualization preparation,
 
 ## Air Quality Index (AQI) Dashboard for India
 
-This project is an interactive dashboard that visualizes the Air Quality Index (AQI) data for various cities across India. It provides insights into pollution levels and key pollutants such as NO2, CO, SO2, and PM2.5. The dashboard is built to allow users to select a city and view detailed air quality trends and comparisons.![IndiaAirQualityIndex](/assets/image/IndiaAirQualityIndex)
+This project is an interactive dashboard that visualizes the Air Quality Index (AQI) data for various cities across India. It provides insights into pollution levels and key pollutants such as NO2, CO, SO2, and PM2.5. The dashboard is built to allow users to select a city and view detailed air quality trends and comparisons.
+
+![IndiaAirQualityIndex.jpeg](assets/IndiaAirQualityIndex.jpeg)
+
 
 ### Features
 - *City-Level Analysis*: Select any city to view its specific air quality details.
@@ -70,7 +73,8 @@ Key steps and features of the project include:
 - Data Validation*: Checked for duplicates and converted data ranges into structured tables for better manageability.  
 - Data Visualization: Created *PIVOT TABLES and CHARTS*, enhanced with slicers, timelines, and dynamic formatting for deeper insights.  
 - Dashboard Creation*: Designed and built a user-friendly dashboard, integrating all key data elements and visual components.
-- ![Excel](/assets/image/Excel)
+
+![excel.Jpeg](assets/excel.Jpeg)
 
 
 ## Project Title: Sales Analysis Dashboard for Madhav E-commerce Sales  
@@ -84,7 +88,8 @@ It demonstrates the ability to leverage Power BI's tools for data visualization 
 - Building an interactive, visually appealing *dashboard* to analyze sales performance, trends, and key metrics.  
 
 This project highlights proficiency in Power BI, including data preparation, modeling, and creating actionable dashboards.
-![IndiaAirQualityIndex](/assets/image/IndiaAirQualityIndex)
+
+![MadhavBI.jpeg](assets/MadhavBI.jpeg)
 
 
 
