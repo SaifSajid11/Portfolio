@@ -36,6 +36,8 @@ understanding of the dataset structure and relationships.
 This project showcases my ability to write optimized SQL queries for data analysis, reporting, and deriving meaningful business insights. 
 It emphasizes my skills in statistical analysis, data visualization preparation, and problem-solving in real-world scenarios.
 
+![Sqlanswers.png](assets/Sqlanswers.png)
+
 
 ## Air Quality Index (AQI) Dashboard for India
 
