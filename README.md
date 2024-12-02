@@ -22,6 +22,27 @@ Compiled and presented actionable insights to the team, resulting in a 10% impro
 
 ## Project
 
+### Customer Churn Analysis Project
+
+Overview
+This project analyzes customer churn in the telecommunications industry to identify key drivers and actionable insights. Using Python, I cleaned and explored the data to uncover patterns in customer behavior, service usage, and billing.
+
+**Key Features**
+- Data cleaning and preparation (handling missing values, type conversions).
+- Exploratory analysis of churn drivers like tenure, contract type, and payment methods.
+- Visualizations (bar charts, count plots) to highlight trends and insights.
+
+**Technologies Used**
+Python, Pandas, NumPy, Matplotlib, Seaborn.
+
+**Future Enhancements**
+- Build a churn prediction model.
+- Develop strategies for customer retention.
+
+This project highlights my skills in data analysis and problem-solving using real-world datasets.
+
+![Screenshot2024-12-02231813.png](assets/Screenshot2024-12-02231813.png)
+
 ### SQL Music Store Data Project: Data Analysis and Insights 
 
 This project demonstrates my proficiency in SQL through a series of advanced queries aimed at extracting actionable insights from relational databases. Key highlights include:  
