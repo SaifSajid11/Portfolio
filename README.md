@@ -41,7 +41,7 @@ Python, Pandas, NumPy, Matplotlib, Seaborn.
 
 This project highlights my skills in data analysis and problem-solving using real-world datasets.
 
-![Screenshot2024-12-02231813.png](assets/Screenshot2024-12-02231813.png)
+![assets.TCDA.png](assets.TCDA.png)
 
 ### SQL Music Store Data Project: Data Analysis and Insights 
 
