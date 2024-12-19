@@ -22,9 +22,11 @@ Compiled and presented actionable insights to the team, resulting in a 10% impro
 
 ## Project
 
-### Customer Churn Analysis Project
+## Customer Churn Analysis Project
 
-Overview
+![assets.TCDA.png](assets.TCDA.png)
+
+###Overview
 This project analyzes customer churn in the telecommunications industry to identify key drivers and actionable insights. Using Python, I cleaned and explored the data to uncover patterns in customer behavior, service usage, and billing.
 
 **Key Features**
@@ -41,9 +43,9 @@ Python, Pandas, NumPy, Matplotlib, Seaborn.
 
 This project highlights my skills in data analysis and problem-solving using real-world datasets.
 
-![assets.TCDA.png](assets.TCDA.png)
+## SQL Music Store Data Project: Data Analysis and Insights 
 
-### SQL Music Store Data Project: Data Analysis and Insights 
+![Sqlanswers.png](assets/Sqlanswers.png)
 
 This project demonstrates my proficiency in SQL through a series of advanced queries aimed at extracting actionable insights from relational databases. Key highlights include:  
 
@@ -57,15 +59,11 @@ understanding of the dataset structure and relationships.
 This project showcases my ability to write optimized SQL queries for data analysis, reporting, and deriving meaningful business insights. 
 It emphasizes my skills in statistical analysis, data visualization preparation, and problem-solving in real-world scenarios.
 
-![Sqlanswers.png](assets/Sqlanswers.png)
-
-
 ## Air Quality Index (AQI) Dashboard for India
-
-This project is an interactive dashboard that visualizes the Air Quality Index (AQI) data for various cities across India. It provides insights into pollution levels and key pollutants such as NO2, CO, SO2, and PM2.5. The dashboard is built to allow users to select a city and view detailed air quality trends and comparisons.
 
 ![IndiaAirQualityIndex.jpeg](assets/IndiaAirQualityIndex.jpeg)
 
+This project is an interactive dashboard that visualizes the Air Quality Index (AQI) data for various cities across India. It provides insights into pollution levels and key pollutants such as NO2, CO, SO2, and PM2.5. The dashboard is built to allow users to select a city and view detailed air quality trends and comparisons.
 
 ### Features
 - *City-Level Analysis*: Select any city to view its specific air quality details.
@@ -87,6 +85,8 @@ This project is an excellent tool for researchers, policymakers, and environment
 
 ## Project Title: Interactive Coffee Sales Dashboard in Excel  
 
+![excel.Jpeg](assets/excel.Jpeg)
+
 This project showcases an interactive and visually appealing coffee sales dashboard created using advanced Excel techniques. 
 The dashboard effectively consolidates and visualizes sales data, making it easier to analyze trends and make data-driven decisions.  
 
@@ -98,10 +98,10 @@ Key steps and features of the project include:
 - Data Visualization: Created *PIVOT TABLES and CHARTS*, enhanced with slicers, timelines, and dynamic formatting for deeper insights.  
 - Dashboard Creation*: Designed and built a user-friendly dashboard, integrating all key data elements and visual components.
 
-![excel.Jpeg](assets/excel.Jpeg)
-
 
 ## Project Title: Sales Analysis Dashboard for Madhav E-commerce Sales  
+
+![MadhavBI.jpeg](assets/MadhavBI.jpeg)
 
 This project involved creating a comprehensive sales analysis dashboard for Madhav E-commerce Sales using Power BI. 
 It demonstrates the ability to leverage Power BI's tools for data visualization and insights. Key steps include:
@@ -113,7 +113,6 @@ It demonstrates the ability to leverage Power BI's tools for data visualization 
 
 This project highlights proficiency in Power BI, including data preparation, modeling, and creating actionable dashboards.
 
-![MadhavBI.jpeg](assets/MadhavBI.jpeg)
 
 
 
