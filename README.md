@@ -26,7 +26,8 @@ Compiled and presented actionable insights to the team, resulting in a 10% impro
 
 ![assets.TCDA.png](assets.TCDA.png)
 
-###Overview
+**Overview**
+
 This project analyzes customer churn in the telecommunications industry to identify key drivers and actionable insights. Using Python, I cleaned and explored the data to uncover patterns in customer behavior, service usage, and billing.
 
 **Key Features**
